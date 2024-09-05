@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/avtarsingh99"> 
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20developer;Always%20learning%20new%20things&font=Fira%20Code%C2%A2er=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20Developer;UI%20UX%20Designer&font=Fira%20Code%C2%A2er=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <br/>
@@ -105,4 +105,4 @@
 </picture>
 </details>
 
-<img alt="Ganit Kumar's Trophies" src="https://github-profile-trophy.vercel.app/?username=avtarsingh99&theme=dracula&row=1&margin-w=5&no-frame=true" />
+<img alt="Avtar's Trophies" src="https://github-profile-trophy.vercel.app/?username=avtarsingh99&theme=dracula&row=1&margin-w=5&no-frame=true" />
