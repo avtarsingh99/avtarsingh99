@@ -98,22 +98,6 @@ I'm a **Frontend Developer** passionate about building user-centric, scalable we
 
 ---
 
-## 🏆 Achievements
-
-- ✨ **200+ DSA Problems** solved on LeetCode and coding platforms
-- 🎓 **50+ Hours** of ReactJS & Modern JavaScript coursework (Tutedude)
-- 🚀 **8+ Hands-on Projects** built during learning journey
-- 🎖️ **B.Tech in CSE with AI** — Gurugram University (Oct 2020 - Jul 2024)
-
----
-
-## 📚 Currently Learning
-
-- AI/ML Concepts
-- Next.js & Full-Stack Development
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
