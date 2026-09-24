@@ -1,27 +1,14 @@
-# 👋 Hey! I'm **AVTAR SINGH**
+# 👋 Hey! I'm **AVTAR**
 
 <div align="center">
 
-**Frontend Developer | React & Modern Web Technologies**  
-📍 Gurugram, India | 💼 [EpiCred](https://www.epicred.in) | 🎓 Gurugram University
+**Frontend Engineer | Product Designer**  
+📍 Gurugram, India  | 🎓 Gurugram University
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avtar-singh-99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avtar-73a888235/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avtarsingh99)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avtar.singh.design@gmail.com)
-[![Phone](https://img.shields.io/badge/+91%209718447648-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919718447648)
 
-</div>
-
----
-
-## 🚀 Quick Stats
-
-<div align="center">
-
-| 📊 | 🔧 | 🎯 |
-|:---:|:---:|:---:|
-| **200+** DSA Problems Solved | **5+ Years** of Web Dev Concepts | **25%** Improvement in Task Completion |
-| Active on LeetCode | HTML5 • CSS3 • JavaScript | EpiCred Product Impact |
 
 </div>
 
@@ -29,7 +16,7 @@
 
 ## 💼 About Me
 
-I'm a **Frontend Developer** passionate about building user-centric, scalable web applications with modern React technologies. Currently working at **EpiCred**, where I focus on state management optimization, design system architecture, and improving user experiences through data-driven design decisions.
+I'm a **Frontend Developer** passionate about building user-centric, scalable web applications with modern React technologies. I focus on state management optimization, design system architecture, and improving user experiences through data-driven design decisions.
 
 🎨 **Design + Code** enthusiast who bridges the gap between beautiful design and efficient development  
 ⚡ **Performance-focused** — reduced page load times by 1.2 seconds through API optimization  
@@ -133,14 +120,13 @@ I'm a **Frontend Developer** passionate about building user-centric, scalable we
 
 I'm open to **collaborations**, **freelance projects**, and **full-time opportunities** in frontend development.
 
-**📧 Email:** [avtar.singh.design@gmail.com](mailto:avtar.singh.design@gmail.com)  
-**📱 Phone:** [+91 9718447648](tel:+919718447648)  
-**💼 LinkedIn:** [linkedin.com/in/avtar-singh-99](https://linkedin.com/in/avtar-singh-99)  
+**📧 Email:** [avtar.singh.design@gmail.com](mailto:avtar.singh.design@gmail.com)    
+**💼 LinkedIn:** [linkedin.com/in/avtar-73a888235/](https://www.linkedin.com/in/avtar-73a888235/)  
 **💻 GitHub:** [github.com/avtarsingh99](https://github.com/avtarsingh99)
 
 ---
 
-### ⭐ If you find my work interesting, feel free to star some of my repositories!
+###### ⭐ If you find my work interesting, feel free to star some of my repositories!
 
 </div>
 
